@@ -95,7 +95,7 @@ public static void Main(string[] args)
   Multiplication_ShouldResultInAMultiplicationOfTwoPassedNumbers();
 }
 
-public void 
+public static void 
 Multiplication_ShouldResultInAMultiplicationOfTwoPassedNumbers()
 {
   //Assuming...
